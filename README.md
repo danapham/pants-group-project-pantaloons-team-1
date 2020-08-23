@@ -1,6 +1,8 @@
 # Bloomers Product Site
 This website was built as a group project during our time at Nashville Software School and showcases our skills with HTML, CSS, JavaScript, and our ability to work as a team.
 
+View the site [here](https://bloomersretail.netlify.app/).
+
 ### Demo
 
 ![Bloomers Demo](demo/bloomers.gif)
